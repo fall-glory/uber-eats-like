@@ -6,6 +6,7 @@
 
 # misc
 .DS_Store
+.vscode
 
 # Ignore bundler config.
 /.bundle
@@ -34,5 +35,3 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
-
-/.vscode
